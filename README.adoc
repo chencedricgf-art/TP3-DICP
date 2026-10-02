@@ -1,0 +1,25 @@
+== étape 1
+
+=== Question 1 a. Comparez les deux empreintes. Ressemblent-elles l’une à l’autre ?
+----
+84732c27ee6303cdcb6d9ac06b0cf2ef516c9d3a et 5668f8419cb04e0b30d20026b0bfa27fd7af803c ellles sont différents
+----
+=== Question 1 b. Une modification minuscule du contenu produit-elle une modification minuscule de l’empreinte ?
+----
+Non une petite modification peut provoquer un grand changement
+----
+=== Question 2 a. Que reconnaissez-vous dans la ligne parent ?
+----
+La ligne parent les 7 premier chiffre est pareil que le virement founisseur
+----
+== étape 2
+
+=== Question 1 a. La sauvegarde contient-elle seulement le dernier état, ou tout l’historique ?
+----
+le sauvegarde elle contient tout histoirique
+----
+=== Question 2 a. Qu’avez-vous perdu ?
+---- 
+Non j'ai rien perdu dans le fichier
+----
+=== Question 2 En quoi un dépôt Git cloné par cinq développeurs est-il différent d’un fichier Word posé sur un serveur unique, du point de vue de la disponibilité ?
